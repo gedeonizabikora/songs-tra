@@ -1,0 +1,7 @@
+{
+  "name": "Song Interpreter AI",
+  "description": "An AI-powered app to translate and interpret song lyrics and audio from English to Kinyarwanda and other languages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
